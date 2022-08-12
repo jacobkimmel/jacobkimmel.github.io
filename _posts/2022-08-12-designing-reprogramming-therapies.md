@@ -17,10 +17,7 @@ We all experience a decline in health with age. Many common diseases of aging �
 
 At [NewLimit](https://newlimit.com), we’re developing medicines to treat age-related disease through a new therapeutic approach. While the tissues that make up our bodies age in different ways, we believe that therapies designed to reprogram the epigenome may unlock treatments for multiple diseases and increase the number of healthy years in each of our lives.
 
-<aside>
-🔗 See: [NewLimit — A company built to extend human healthspan](https://www.notion.so/Developing-reprogramming-therapies-949e909dc3e446ed9b344076bd67e4ae)
-
-</aside>
+> See: [NewLimit — A company built to extend human healthspan](https://blog.newlimit.com/p/announcing-newlimit-a-company-built?utm_source=%2Finbox&utm_medium=reader2)
 
 How might these therapies work?
 
