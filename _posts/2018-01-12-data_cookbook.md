@@ -25,6 +25,45 @@ An ever-growing collection of code blocks to perform useful data manipulation an
 sed '/some_string/d' $FILE
 ```
 
+# make
+
+`make` is a beautiful piece of software that I continuously forget how to use. A few reminders for myself are below.
+
+## Basic Makefile
+
+```
+first_basic_component:
+  command1 some args an_output
+  command2 an_output the_second_output
+
+# component 2 depends on first_basic_component
+component2: first_basic_component
+  command3 the_second_output
+```
+
+## Using conda envs in Makefiles
+
+```
+.ONESHELL:
+
+SHELL = /bin/bash
+
+CONDA_ACTIVATE=source $$(conda info --base)/etc/profile.d/conda.sh ; conda activate ; conda activate
+
+conda-component:
+  conda activate usefulenv
+  python some_file.py
+```
+
+## Using loops in Makefiles
+
+Weirdly, `bash` needs `$$` as a variable indicator instead of `$` when called by `make`
+
+```
+some_loop_output:
+  for i in *.ext; do command1 $${i}; done
+```
+
 # Python
 
 These code snacks describe useful features of Python 3+ that aren't always emphasized.
