@@ -619,6 +619,33 @@ gsm_obj = gse.gsms[first_key]
 # the values are lists with str values of text metadata
 ```
 
+# Bioinformatics
+
+## bustools
+
+`bustools` is performs cell barcode and UMI demultiplexing from `kallisto` pseudoalignments for single cell sequencing. The documentation is a little sparse, so here we add a bit more color.
+
+### Extract cell barcode, UMI reads as a table
+
+`bustools text <input.bus> -p <output_file>` will convert a BUS file into a simple TSV. The columns aren't documented though!
+
+After investigating [the source code here](https://github.com/BUStools/bustools/blob/2c312dfa539a2d6cb287c24f64d66a6a6855a957/src/bustools_text.cpp#L58), we found that the outputs are:
+
+```
+cell_barcode  umi equivalence_class count
+```
+
+where `equivalence_class` is a transcript equivalence class in the `kallisto` index.
+
+Files do **not** have a header, so example output is plain text similar to:
+
+```
+GACCGTTCAGCTAACC        GCAAGCATGCGT    760     1
+ATTAGTCCAGCAATAA        ACTCTCAGTCAC    718     1
+CTTTAGGCAAACTGCC        AACCTTTGTCTC    798     1
+GGCAAGCCAAGTGTTT        AAAAGGTAAGAA    797     1
+```
+
 # LaTeX
 
 I love LaTeX.
