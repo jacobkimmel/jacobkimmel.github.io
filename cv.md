@@ -26,9 +26,9 @@ San Francisco, California
 ## Recent Experience
 
 **NewLimit, South San Francisco, CA, 2022 - Present**  
-*Head of Research*
+*Co-founder & Head of Research*
 
-* Building a research program to develop epigenetic reprogramming therapeutics
+* Building a therapeutics firm to develop epigenetic reprogramming therapeutics
 
 **Calico Life Sciences, South San Francisco, CA, 2020 - 2022**  
 *Principal Investigator, R&D, 2021-2022*  
