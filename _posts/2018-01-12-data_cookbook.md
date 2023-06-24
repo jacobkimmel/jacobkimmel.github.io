@@ -757,3 +757,34 @@ After installation, compression is a one-liner.
 ```
 
 `pdfsizeopt` tends to get a smaller file size with better Ghostscript with the `/printer` setting, but it takes much longer to execute.
+
+# Docker
+
+`docker` is a "container" system that acts as a [lightweight virtualization layer.](https://pbs.twimg.com/media/FwvYXOSagAAiTfe?format=jpg&name=large) By default, docker accesses a Unix socket and needs to be run with superuser permissions.
+
+## Grabbing a container from dockerhub
+
+```bash
+sudo docker pull someorg/someimage
+```
+
+## Running the docker image
+
+```bash
+sudo docker run someorg/someimage echo "this will run in the image"
+```
+
+If you want to open an interactive shell, you can use the `-it` flag.
+
+```bash
+sudo docker run -it someorg/someimage
+```
+
+Using the host (i.e. local) filesystem inside the virualized image requires you to mount it to a virtual directory with the `-v` argument.
+
+```bash
+sudo docker run \
+  -v /local/path/to/code:/code \
+  -v /local/path/to/data:/data_path_in_container \
+  someorg/someimage python /code/my_script.py --data_path /data_path_in_container
+```
