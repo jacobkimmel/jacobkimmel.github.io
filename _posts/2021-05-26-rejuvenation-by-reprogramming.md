@@ -5,8 +5,10 @@ description: Partial pluripotent reprogramming restores youthful gene expression
 date: 2021-05-26
 ---
 
-**Paper:** [https://doi.org/10.1016/j.cels.2022.05.002](https://doi.org/10.1016/j.cels.2022.05.002), [PDF Download]({{site.url}}/assets/../../../assets/files/2022_roux_cell_systems.pdf)  
-**Research Website:** [reprog.research.calicolabs.com](https://reprog.research.calicolabs.com)
+- **Paper:** [https://doi.org/10.1016/j.cels.2022.05.002](https://doi.org/10.1016/j.cels.2022.05.002)
+- **Paper PDF**: [PDF Download]({{site.url}}/assets/../../../assets/files/2022_roux_cell_systems.pdf)
+- **Supplement PDF**: [PDF Download]({{site.url}}/assets/../../../assets/files/2022_roux_cell_systems_supp.pdf)
+- **Research Website:** [reprog.research.calicolabs.com](https://reprog.research.calicolabs.com)
 
 Mammalian aging dramatically remodels gene expression in diverse cell identities, as revealed by aging cell cartography studies ([Calico Murine Aging Cell Atlas](https://mca.research.calicolabs.com/), [*Tabula Muris Senis*](https://tabula-muris-senis.ds.czbiohub.org/)).
 Germline ontogeny is the only process known to reverse features of aging in individual cells, such that adult cells can give rise to young animals ([Gurdon 1963](https://pubmed.ncbi.nlm.nih.gov/13903027/)).
