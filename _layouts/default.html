@@ -23,6 +23,16 @@ layout: compress
       {% include mathjax_support %}
     {% endif %}
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZVT2X768P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-KZVT2X768P');
+    </script>    
+
     <style>{% include main.css %}</style>
 </head>
 <body>
