@@ -124,9 +124,7 @@ San Francisco, California
 7. **Kimmel JC**, Hwang A, Brack AS, Marshall WF. Inferring cell state dynamics with machine learning models. **Invited speaker** for the *Machine Learning in Cell Biology* Group meeting at ASCB-EMBO 2018. San Diego, CA. 2018.
 <!-- 6. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** at the Quantitative Biology meeting. Honolulu, HI. 2018. -->
 8. **Kimmel JC**, Brack AS, Marshall WF. Deep neural networks for cell motility analysis. Poster presentation to Nvidia Deep Learning in Biomedicine Workshop. San Francisco, CA. 2018. *Nvidia Most Innovative Use of Deep Learning in Biomedicine Award.*
-<!-- 8. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** to the Northern California Computational Biology Society. UC Santa Cruz, Santa Cruz, CA. 2017.
-10. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring cell state from cell motility behavior. **Selected speaker** for the NSF Quantitative Cell Biology Network Workshop. Allen Institute for Cell Science, Seattle, WA. 2016.
- -->
+
 
 ## Service
 
