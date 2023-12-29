@@ -28,7 +28,7 @@ San Francisco, California
 **NewLimit, South San Francisco, CA, 2022 - Present**  
 *Co-founder & Head of Research*
 
-* Building a therapeutics firm to develop epigenetic reprogramming therapeutics
+* Building a therapeutics firm to develop epigenetic reprogramming medicines for aging
 
 **Calico Life Sciences, South San Francisco, CA, 2020 - 2022**  
 *Principal Investigator, R&D, 2021-2022*  
@@ -36,7 +36,7 @@ San Francisco, California
 
 * Led a laboratory combining computational and experimental methods to repurpose developmental programs for therapeutic applications
 * Developed [**scNym**](https://scnym.research.calicolabs.com) semi-supervised adversarial neural networks for classifying cell types in single cell genomics, improving the state-of-the-art -- [scnym.research.calicolabs.com](https://scnym.research.calicolabs.com)
-* Lead the development of a computational & experimental platform for pooled screening of cell identity reprogramming strategies, successfully completing a company-wide goal -- [reprog.research.calicolabs.com](https://reprog.research.calicolabs.com)
+* Led the development of a computational & experimental platform for pooled screening of cell identity reprogramming strategies, successfully completing a company-wide goal -- [reprog.research.calicolabs.com](https://reprog.research.calicolabs.com)
 
 **Calico Life Sciences, South San Francisco, CA, 2018 - 2020**.  
 *Data Scientist, Computing*  
@@ -85,7 +85,7 @@ San Francisco, California
 *Principal Investigator:* Ilya G. Goldberg, PhD
 
 * Identified differential aging rates across the anatomy of *C. elegans* using machine learning based image classification
-* Investigated the relationship between cognitive and age related morphologies in the primate hippocampus -->
+* Investigated the relationship between cognitive and age related morphologies in the primate hippocampus 
 
 ## Skills
 
@@ -95,6 +95,8 @@ San Francisco, California
 **Programming:** Python (scipy, scikit-learn, statsmodels), R, Matlab, git, bash, LaTeX  
 **Image Analysis:** Image segmentation, classification, particle tracking  
 **Experimental Biology**: Quantitative microscopy, single cell RNA-seq, primary cell culture, FACS, molecular biology methods
+
+-->
 
 ## Selected Publications
 
@@ -112,8 +114,9 @@ San Francisco, California
 
 ## Selected Presentations
 
-1. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Longevity Summit*. Virtual. 2021.
-2. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Lifespan* conference. Virtual. 2021.
+1. Partial reprogramming restores youthful gene expression. **Invited speaker** at the Gordon Research Conference on *Systems Aging*. 2022.
+2. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Longevity Summit*. Virtual. 2021.
+<!-- 3. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Lifespan* conference. Virtual. 2021. -->
 3. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. **Selected speaker** at the International Conference on Machine Learning (ICML), Workshop on Computational Biology. Virtual. 2020. *Contributor Award for the best reviewed submissions*.
 4. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. **Selected speaker** at Intelligent Systems for Molecular Biology (ISMB), Machine Learning in Computational and Systems Biology session. Virtual. 2020.
 5. **Kimmel JC**, Penland L, Rubinstein ND, Hendrickson DG, Kelley DR, Rosenthal AZ. Cell type and tissue-specific aging trajectories. **Invited speaker** for California QB3 Institute's *Aging and the Single Cell* event. San Francisco, CA. 2019.
@@ -121,14 +124,17 @@ San Francisco, California
 7. **Kimmel JC**, Hwang A, Brack AS, Marshall WF. Inferring cell state dynamics with machine learning models. **Invited speaker** for the *Machine Learning in Cell Biology* Group meeting at ASCB-EMBO 2018. San Diego, CA. 2018.
 <!-- 6. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** at the Quantitative Biology meeting. Honolulu, HI. 2018. -->
 8. **Kimmel JC**, Brack AS, Marshall WF. Deep neural networks for cell motility analysis. Poster presentation to Nvidia Deep Learning in Biomedicine Workshop. San Francisco, CA. 2018. *Nvidia Most Innovative Use of Deep Learning in Biomedicine Award.*
-<!-- 8. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** to the Northern California Computational Biology Society. UC Santa Cruz, Santa Cruz, CA. 2017. -->
-9. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring cell state from cell motility behavior. **Selected speaker** for the NSF Quantitative Cell Biology Network Workshop. Allen Institute for Cell Science, Seattle, WA. 2016.
+<!-- 8. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** to the Northern California Computational Biology Society. UC Santa Cruz, Santa Cruz, CA. 2017.
+10. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring cell state from cell motility behavior. **Selected speaker** for the NSF Quantitative Cell Biology Network Workshop. Allen Institute for Cell Science, Seattle, WA. 2016.
+ -->
 
 ## Service
 
 ### Peer Reviewer
 
 * *Bioinformatics*
+* *Cell Reports*
+* *Cell Systems*
 * *eLife*
 * *IEEE Journal of Biomedical and Health Informatics*
 * *Nature Medicine*
@@ -139,7 +145,7 @@ San Francisco, California
 ### Open Source Software
 
 * Maintainer: `scnym`, `velodyn`, `scmmd`, `heteromotility`, `lanternfish`, `pytorch_modelsize`
-* Contributor: `statsmodels`, `gseapy`
+* Contributor: `scvi-tools`, `statsmodels`, `gseapy`
 
 ## Honors and Awards
 
