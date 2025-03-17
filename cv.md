@@ -26,7 +26,7 @@ San Francisco, California
 ## Recent Experience
 
 **NewLimit, South San Francisco, CA, 2022 - Present**  
-*Co-founder & Head of Research*
+*Co-founder & President*  
 
 * Building a therapeutics firm to develop epigenetic reprogramming medicines for aging
 
