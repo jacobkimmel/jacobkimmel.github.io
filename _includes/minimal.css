@@ -81,6 +81,55 @@ body {
     max-width: 800px;
 }
 
+/* Page content styling */
+.page h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.page h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    color: #333;
+}
+
+.page h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 25px;
+    color: #333;
+}
+
+.page p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.page ul, .page ol {
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
+.page li {
+    margin-bottom: 5px;
+}
+
+.page a {
+    color: #0066cc;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom-color 0.2s ease;
+}
+
+.page a:hover {
+    border-bottom-color: #0066cc;
+}
+
 /* Profile image - small square */
 .profile-image {
     width: 128px;
