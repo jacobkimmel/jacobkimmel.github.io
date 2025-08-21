@@ -38,7 +38,7 @@ San Francisco, California
 *Principal Investigators:* Wallace Marshall, Andrew Brack  
 *Thesis:* Inferring stem cell state from cell behavior
 
-* Developed [statistical](http://jck.bio/heteromotility) and [machine learning](http://jck.bio/lanternfish) methods to quantify cellular behavior in timelapse microscopy images
+* Developed [statistical](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005927) and [machine learning](https://ieeexplore.ieee.org/document/8747369) methods to quantify cellular behavior in timelapse microscopy images
 * Discovered [state transitions in myogenesis that are impaired with age](http://jck.bio/aging_musc_dynamics/)
 
 **IBM Research, Cell Engineering Group, San Jose, CA, 2017 Fall**  
