@@ -45,7 +45,7 @@ San Francisco, California
 *Deep Learning Research Intern*  
 *Principal Investigator:* Simone Bianco  
 
-* Developed convolutional neural networks tp process timelapse imaging data for biological sensors
+* Developed convolutional neural networks to process timelapse imaging data for biological sensors
 * Implemented a natural evolution strategies (NES) optimization framework to improve cellular tracking for biological sensors
 
 ## Selected Publications
@@ -53,7 +53,7 @@ San Francisco, California
 1. Sengine L, Kummerlowe CS, Reynolds DL, Bernstein NJ, **Kimmel JC**. *In silico* design of epigenetic reprogramming payloads. *International Conference on Machine Learning (ICML)*, Generative Biology. 2025. url: [https://openreview.net/forum?id=kPQ6NKVAiT](https://openreview.net/forum?id=kPQ6NKVAiT).
 2. Roux A, Zhang C, Paw J, Zavala-Solorio J, Vijay T, Kolumam G, Kenyon C, **Kimmel JC**. 2022.
 *Cell Systems*. [doi: https://doi.org/10.1016/j.cels.2022.05.002](https://doi.org/10.1016/j.cels.2022.05.002). [PDF]({{site.url}}/assets/files/2022_roux_cell_systems.pdf)
-3. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. 2021. *Genome Research*. [doi: https://doi.org/10.1101/gr.268581.120](https://doi.org/10.1101/gr.268581.120).
+3. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. 2021. *Genome Research*. [doi: https://doi.org/10.1101/gr.268581.120](https://doi.org/10.1101/gr.268581.120). Awared Top Paper at ICML Computational Biology, 2020.
 4. **Kimmel JC**, Yi N, Roy M, Hendrickson DG, Kelley DR. Differentiation reveals the plasticity of age-related change in murine muscle progenitors. 2021. *Cell Reports*. [https://doi.org/10.1016/j.celrep.2021.109046](https://doi.org/10.1016/j.celrep.2021.109046).
 5. **Kimmel JC**, Hwang AB, Marshall WF, Brack AS. Aging induces aberrant state transition kinetics in murine muscle stem cells. 2020. *Development*. [https://doi.org/10.1242/dev.183855](doi: 10.1242/dev.183855). Chosen as a [Research Highlight by *Development*: Muscling in on Stem Cell Aging.](https://dev.biologists.org/content/147/9/e0901)
 6. **Kimmel JC**. Disentangling latent representations of single cell RNA-seq experiments. 2020. *bioRxiv*. [https://doi.org/10.1101/2020.03.04.972166](doi: 10.1101/2020.03.04.972166).
