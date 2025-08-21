@@ -87,15 +87,21 @@ body {
     max-width: 800px;
 }
 
+.elsewhere {
+    margin-left: 200px;
+    padding: 40px 60px;
+    max-width: 800px;
+}
+
 /* Page content styling */
-.page h1, .cv h1 {
+.page h1, .cv h1, .elsewhere h1 {
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #333;
 }
 
-.page h2, .cv h2 {
+.page h2, .cv h2, .elsewhere h2 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 15px;
@@ -103,7 +109,7 @@ body {
     color: #333;
 }
 
-.page h3, .cv h3 {
+.page h3, .cv h3, .elsewhere h3 {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -111,28 +117,28 @@ body {
     color: #333;
 }
 
-.page p, .cv p {
+.page p, .cv p, .elsewhere p {
     margin-bottom: 15px;
     line-height: 1.6;
 }
 
-.page ul, .page ol, .cv ul, .cv ol {
+.page ul, .page ol, .cv ul, .cv ol, .elsewhere ul, .elsewhere ol {
     margin-bottom: 15px;
     padding-left: 20px;
 }
 
-.page li, .cv li {
+.page li, .cv li, .elsewhere li {
     margin-bottom: 5px;
 }
 
-.page a, .cv a {
+.page a, .cv a, .elsewhere a {
     color: #0066cc;
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-bottom-color 0.2s ease;
 }
 
-.page a:hover, .cv a:hover {
+.page a:hover, .cv a:hover, .elsewhere a:hover {
     border-bottom-color: #0066cc;
 }
 
@@ -325,6 +331,7 @@ code, pre {
     .page,
     .post,
     .cv,
+    .elsewhere,
     .heteromotility,
     .lanternfish,
     .aging_musc_dynamics {
