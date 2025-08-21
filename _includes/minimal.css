@@ -1,0 +1,262 @@
+/* Minimal theme override */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Mono:wght@400;500;700&display=swap');
+
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: {{ site.font | default: "Tinos, serif" }};
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Layout container */
+.wrapper-normal,
+.wrapper-large {
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    max-width: none;
+}
+
+/* Left sidebar navigation */
+.sidebar-nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 100vh;
+    background: #fff;
+    padding: 40px 20px;
+    z-index: 1000;
+}
+
+.nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    display: block;
+    color: #666;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 0;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #333;
+    border-bottom-color: #333;
+}
+
+/* Main content area */
+.home {
+    margin-left: 200px;
+    padding: 40px 60px;
+    max-width: 800px;
+}
+
+.page {
+    margin-left: 200px;
+    padding: 40px 60px;
+    max-width: 800px;
+}
+
+/* Profile image - small square */
+.profile-image {
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    margin: 20px 0 30px 0;
+    display: block;
+}
+
+/* About content */
+.about-content {
+    margin-bottom: 40px;
+}
+
+.about-content h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-content h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-content p {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.about-content a {
+    color: #0066cc;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom-color 0.2s ease;
+}
+
+.about-content a:hover {
+    border-bottom-color: #0066cc;
+}
+
+/* Contact links */
+.contact-links {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.contact-links h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.contact-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contact-list li a {
+    color: #666;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 8px 0;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.contact-list li a:hover {
+    color: #333;
+    border-bottom-color: #333;
+}
+
+/* Typography overrides */
+h1, h2, h3, h4, h5, h6 {
+    font-family: {{ site.font | default: "Tinos, serif" }};
+    line-height: 1.3;
+}
+
+code, pre {
+    font-family: {{ site.font-alt | default: "Fira Mono, monospace" }};
+}
+
+/* Remove existing theme styles */
+.header-home,
+.nav-home,
+.nav {
+    display: none !important;
+}
+
+/* Post page styling */
+.post {
+    margin-left: 200px;
+    padding: 40px 60px;
+    max-width: 800px;
+}
+
+.post .title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.post .date {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.post .post-tags {
+    margin-bottom: 30px;
+}
+
+.post .post-tags .item {
+    display: inline-block;
+    background: #f0f0f0;
+    color: #666;
+    padding: 4px 8px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    text-decoration: none;
+    font-size: 12px;
+    border-radius: 3px;
+    transition: background-color 0.2s ease;
+}
+
+.post .post-tags .item:hover {
+    background: #e0e0e0;
+    color: #333;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .sidebar-nav {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 20px;
+    }
+    
+    .nav-list {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    
+    .nav-item {
+        margin-bottom: 10px;
+    }
+    
+    .home,
+    .page,
+    .post {
+        margin-left: 0;
+        padding: 20px;
+    }
+    
+    .wrapper-normal,
+    .wrapper-large {
+        flex-direction: column;
+    }
+    
+    .profile-image {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .contact-list {
+        justify-content: center;
+    }
+}

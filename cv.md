@@ -8,20 +8,10 @@ permalink: /cv/index.html
 
 San Francisco, California
 
-[CV PDF]({{site.url}}/assets/cv.pdf)
-
 ## Education
 
 **Ph.D. — Dept. Biochemistry & Biophysics, UC San Francisco, 2015 - 2018**  
-*Funding*: NSF Fellowship, PhRMA Fellowship, NIH T32, UCSF Discovery    
-
-<!-- **B.S. (Honors), Biotechnology, University of Central Florida, 2012 - 2015**  
-*Distinctions*: Summa Cum Laude, Top Honors, University Honors  
-*Funding*: National Merit Scholarship, Full Tuition & Stipend  
-*GPA*: 4.0 / 4.0 -->
-
-<!-- **Marine Biological Laboratory, Woods Hole, MA, 2016 Fall**  
-*Course*: Computational Image Analysis in Cell and Developmental Biology -->
+*Funding*: NSF Fellowship, PhRMA Fellowship, NIH T32, UCSF Discovery   
 
 ## Recent Experience
 
@@ -34,69 +24,29 @@ San Francisco, California
 *Principal Investigator, R&D, 2021-2022*  
 *Computational Fellow, Computing, 2020-2021*
 
-* Led a laboratory combining computational and experimental methods to repurpose developmental programs for therapeutic applications
-* Developed [**scNym**](https://scnym.research.calicolabs.com) semi-supervised adversarial neural networks for classifying cell types in single cell genomics, improving the state-of-the-art -- [scnym.research.calicolabs.com](https://scnym.research.calicolabs.com)
-* Led the development of a computational & experimental platform for pooled screening of cell identity reprogramming strategies, successfully completing a company-wide goal -- [reprog.research.calicolabs.com](https://reprog.research.calicolabs.com)
+* Led a laboratory combining computational and experimental methods to repurpose developmental programs for therapeutic applications. 
+* Developed [machine learning](https://scnym.research.calicolabs.com) and functional genomics methods to [measure and reprogram cell age & identity](https://reprog.research.calicolabs.com)
 
 **Calico Life Sciences, South San Francisco, CA, 2018 - 2020**.  
-*Data Scientist, Computing*  
+*Data Scientist, Computing*
 
-* Led an [investigation of cell type and tissue environment influences on aging](http://jck.bio/murine_cell_aging) using single cell genomics across three murine tissues -- [mca.research.calicolabs.com](https://mca.research.calicolabs.com)
-* Led an [investigation of skeletal muscle aging](https://myo.research.calicolabs.com) using single cell genomics & dynamical systems, revealing a decision point where old stem cells fail to differentiate  -- [myo.research.calicolabs.com](https://myo.research.calicolabs.com)
-* Developed timelapse image analysis methods for oncology applications, enabling multi-cell tracking and analysis over many days
-* Automated quantification of yeast cell aging using convolutional neural networks
-* Built an automated targeting system for laser ablation microscopy with sub-millisecond timing
+* Discovered that [cell identity rather than tissue environment defines the trajectory of cellular aging](https://mca.research.calicolabs.com) & a lineage decision where [old muscle stem cells fail to form mature muscle](https://myo.research.calicolabs.com)
+* Contributed to small molecular and antibody therapeutics programs
 
 **University of California San Francisco, San Francisco, CA, 2015 - 2018**  
 *PhD Candidate*  
 *Principal Investigators:* Wallace Marshall, Andrew Brack  
 *Thesis:* Inferring stem cell state from cell behavior
 
-* Developed [*Heteromotility*](http://jck.bio/heteromotility) biological motion analysis package, including feature extraction, unsupervised clustering, and time-series analysis tools to quantify dynamic state transitions in cellular systems
-* Quantified rates of muscle stem cell activation with single cell resolution for the first time using [*Heteromotility*](http://jck.bio/heteromotility)
-* Developed [*Lanternfish*](http://jck.bio/lanternfish) deep learning package to enable discrimination of cell states from cell motility measurements and prediction of cell motility behaviors
-* Demonstrated classification of stem cell differentiation states and cancerous transformation detection using [*Lanternfish*](http://jck.bio/lanternfish)
-* Discovered [age-dampened state transitions in myogenesis](http://jck.bio/aging_musc_dynamics/) with single cell RNA-seq & [*Heteromotility*](http://jck.bio/heteromotility)
+* Developed [statistical](http://jck.bio/heteromotility) and [machine learning](http://jck.bio/lanternfish) methods to quantify cellular behavior in timelapse microscopy images
+* Discovered [state transitions in myogenesis that are impaired with age](http://jck.bio/aging_musc_dynamics/)
 
 **IBM Research, Cell Engineering Group, San Jose, CA, 2017 Fall**  
 *Deep Learning Research Intern*  
 *Principal Investigator:* Simone Bianco  
 
-* Developed rapid convolutional neural network (CNN) based image segmentation methods for processing of high-throughput timelapse imaging data
-* Implemented a Natural Evolution Strategies (NES) optimization framework to improve multi-cell tracking
-* Implemented a software interface to custom microscopy hardware, allowing for automation of high-throughput timelapse imaging experiments
-
-<!-- **University of Central Florida, Orlando, FL, 2012 - 2015**  
-*Burnett Research Scholar, Research and Mentoring Program Scholar*  
-*Principal Investigator:* Kiminobu Sugaya, PhD
-
-* Characterized induced pluripotent reprogramming in mesenchymal stem cells using machine-learning based image analysis, investigated cell sorting applications
-* Developed a method to guide cell motility with polarized optical torques in collaboration with U. of Central Florida's optics research center
-* Investigated a pathway for producing neuronal cells from adipose derived stem cells by modulation of Nanog
-
-**University of California San Francisco, San Francisco, CA, 2014 Summer**  
-*Amgen Scholar, Summer Research and Training Program*  
-*Principal Investigator:* K. Mark Ansel, PhD
-
-* Investigated the role of microRNA-29 in the regulation of cytokine production in T-cells
-
-**National Institute on Aging, Baltimore, MD, 2012 Summer**  
-*Summer Fellow, Image Informatics and Computational Biology Unit*
-*Principal Investigator:* Ilya G. Goldberg, PhD
-
-* Identified differential aging rates across the anatomy of *C. elegans* using machine learning based image classification
-* Investigated the relationship between cognitive and age related morphologies in the primate hippocampus 
-
-## Skills
-
-**Data Analysis:** Experimental design, linear modeling, time series analysis, multivariate statistics  
-**Machine Learning:** Semi-supervision, adversarial training, PyTorch, Tensorflow  
-**NGS**: Single cell and bulk RNA-seq analysis, ATAC-seq, samtools, IGV  
-**Programming:** Python (scipy, scikit-learn, statsmodels), R, Matlab, git, bash, LaTeX  
-**Image Analysis:** Image segmentation, classification, particle tracking  
-**Experimental Biology**: Quantitative microscopy, single cell RNA-seq, primary cell culture, FACS, molecular biology methods
-
--->
+* Developed convolutional neural networks tp process timelapse imaging data for biological sensors
+* Implemented a natural evolution strategies (NES) optimization framework to improve cellular tracking for biological sensors
 
 ## Selected Publications
 
@@ -112,19 +62,18 @@ San Francisco, California
 7. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring cell state by quantitative motility analysis reveals a dynamic state system and broken detailed balance. 2018. *PLoS Computational Biology* 14(1): e1005927. [https://doi.org/10.1371/journal.pcbi.1005927](https://doi.org/10.1371/journal.pcbi.1005927). Featured as an Editor's Pick in [*PLoS Editor's Collections: Cell Biology*](https://collections.plos.org/cell-biology-picks).
 8. Constant C, **Kimmel JC**, Sugaya K, Dogariu A. Optically Controlled Subcellular Diffusion. 2015. *Frontiers in Optics & Laser Science*.
 
-## Selected Presentations
-
+<!-- ## Selected Presentations
 1. Partial reprogramming restores youthful gene expression. **Invited speaker** at the Gordon Research Conference on *Systems Aging*. 2022.
 2. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Longevity Summit*. Virtual. 2021.
-<!-- 3. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Lifespan* conference. Virtual. 2021. -->
+3. Partial reprogramming restores youthful gene expression. **Invited speaker** at the *Lifespan* conference. Virtual. 2021.
 3. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. **Selected speaker** at the International Conference on Machine Learning (ICML), Workshop on Computational Biology. Virtual. 2020. *Contributor Award for the best reviewed submissions*.
 4. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. **Selected speaker** at Intelligent Systems for Molecular Biology (ISMB), Machine Learning in Computational and Systems Biology session. Virtual. 2020.
 5. **Kimmel JC**, Penland L, Rubinstein ND, Hendrickson DG, Kelley DR, Rosenthal AZ. Cell type and tissue-specific aging trajectories. **Invited speaker** for California QB3 Institute's *Aging and the Single Cell* event. San Francisco, CA. 2019.
 6. **Kimmel JC**, Penland L, Rubinstein ND, Hendrickson DG, Kelley DR, Rosenthal AZ. Cell type and tissue-specific aging trajectories. **Invited speaker** at Mission Bay Capital Biolabs. San Francisco, CA. 2019.
 7. **Kimmel JC**, Hwang A, Brack AS, Marshall WF. Inferring cell state dynamics with machine learning models. **Invited speaker** for the *Machine Learning in Cell Biology* Group meeting at ASCB-EMBO 2018. San Diego, CA. 2018.
-<!-- 6. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** at the Quantitative Biology meeting. Honolulu, HI. 2018. -->
+6. **Kimmel JC**, Chang AY, Brack AS, Marshall WF. Inferring stem cell states from cell motility behavior reveals a dynamic state system and broken detailed balance. **Selected speaker** at the Quantitative Biology meeting. Honolulu, HI. 2018.
 8. **Kimmel JC**, Brack AS, Marshall WF. Deep neural networks for cell motility analysis. Poster presentation to Nvidia Deep Learning in Biomedicine Workshop. San Francisco, CA. 2018. *Nvidia Most Innovative Use of Deep Learning in Biomedicine Award.*
-
+ -->
 
 ## Service
 
@@ -145,7 +94,7 @@ San Francisco, California
 * Maintainer: `scnym`, `velodyn`, `scmmd`, `heteromotility`, `lanternfish`, `pytorch_modelsize`
 * Contributor: `scvi-tools`, `statsmodels`, `gseapy`
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
 * Calico Performance Recognition, 2020 & 2021
 * ICML Workshop on Computational Biology, Contributor Award, 2020
@@ -158,4 +107,4 @@ San Francisco, California
 * Amgen Scholar, University of California San Francisco, 2014
 * Research & Mentoring Program Scholar, U. of Central Florida, 2013-2015
 * Burnett Research Scholar, U. of Central Florida, 2013
-* National Merit Scholar, National Merit Scholarship Corp., 2012
+* National Merit Scholar, National Merit Scholarship Corp., 2012 -->

@@ -12,7 +12,8 @@ layout: compress
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
 
-    {% seo %}
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ site.bio }}">
 
     {% include favicon.html %}
 
@@ -33,10 +34,11 @@ layout: compress
         gtag('config', 'G-KZVT2X768P');
     </script>    
 
-    <style>{% include main.css %}</style>
+    <style>{% include minimal.css %}</style>
 </head>
 <body>
-
+    {% include nav.html %}
+    
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.tag %}
             <div class="post">
