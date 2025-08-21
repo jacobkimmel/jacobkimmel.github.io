@@ -81,15 +81,21 @@ body {
     max-width: 800px;
 }
 
+.cv {
+    margin-left: 200px;
+    padding: 40px 60px;
+    max-width: 800px;
+}
+
 /* Page content styling */
-.page h1 {
+.page h1, .cv h1 {
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #333;
 }
 
-.page h2 {
+.page h2, .cv h2 {
     font-size: 24px;
     font-weight: 700;
     margin-bottom: 15px;
@@ -97,7 +103,7 @@ body {
     color: #333;
 }
 
-.page h3 {
+.page h3, .cv h3 {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -105,28 +111,28 @@ body {
     color: #333;
 }
 
-.page p {
+.page p, .cv p {
     margin-bottom: 15px;
     line-height: 1.6;
 }
 
-.page ul, .page ol {
+.page ul, .page ol, .cv ul, .cv ol {
     margin-bottom: 15px;
     padding-left: 20px;
 }
 
-.page li {
+.page li, .cv li {
     margin-bottom: 5px;
 }
 
-.page a {
+.page a, .cv a {
     color: #0066cc;
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-bottom-color 0.2s ease;
 }
 
-.page a:hover {
+.page a:hover, .cv a:hover {
     border-bottom-color: #0066cc;
 }
 
@@ -290,7 +296,8 @@ code, pre {
     
     .home,
     .page,
-    .post {
+    .post,
+    .cv {
         margin-left: 0;
         padding: 20px;
     }
