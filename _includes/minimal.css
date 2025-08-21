@@ -234,7 +234,8 @@ code, pre {
 /* Remove existing theme styles */
 .header-home,
 .nav-home,
-.nav {
+.nav,
+.footer-main {
     display: none !important;
 }
 
