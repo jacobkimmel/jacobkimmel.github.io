@@ -21,7 +21,8 @@ permalink: /elsewhere/index.html
 
 - Endpoints News with Andrew Dunn [(2023)](https://endpts.com/newlimits-jacob-kimmel-on-future-of-anti-aging-research-longevity-trends-and-leaving-calico/) & [(2025)](https://endpts.com/anti-aging-biotech-newlimit-raises-130m-series-b-round/)
 - [Fierce Biotechnology](https://www.fiercebiotech.com/biotech/anti-aging-biotech-newlimit-raises-130m-push-liver-reprogramming-med-clinic) with Darren Incorvaia
-- [Nature Biotechnology](https://www.nature.com/articles/d41587-022-00002-4) with Michael Eisenstein
+- [The Information](https://www.youtube.com/live/87vq_RXpZlI?si=uOKrXFIBdpJOwnaK&t=1267) with Akash Pasricha.
+- [Nature Biotechnology](https://www.nature.com/articles/d41587-022-00002-4) with Michael Eisenstein.
 - [The Story Company](https://x.com/jasonjoyride/status/1959284497301876878) Lighthouse documentary.
 
 ## Writing
