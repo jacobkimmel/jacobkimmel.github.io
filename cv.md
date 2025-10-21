@@ -27,8 +27,7 @@ San Francisco, California
 * Led a laboratory combining computational and experimental methods to repurpose developmental programs for therapeutic applications. 
 * Developed [machine learning](https://scnym.research.calicolabs.com) and functional genomics methods to [measure and reprogram cell age & identity](https://reprog.research.calicolabs.com)
 
-**Calico Life Sciences, South San Francisco, CA, 2018 - 2020**.  
-*Data Scientist, Computing*
+*Data Scientist, Computing, 2018-2020*
 
 * Discovered that [cell identity rather than tissue environment defines the trajectory of cellular aging](https://mca.research.calicolabs.com) & a lineage decision where [old muscle stem cells fail to form mature muscle](https://myo.research.calicolabs.com)
 * Contributed to small molecular and antibody therapeutics programs
