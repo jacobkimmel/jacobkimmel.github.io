@@ -19,7 +19,7 @@ permalink: /elsewhere/index.html
 
 ## Interviews
 
-- Endpoints News with Andrew Dunn [(2023)](https://endpts.com/newlimits-jacob-kimmel-on-future-of-anti-aging-research-longevity-trends-and-leaving-calico/) & [(2025)](https://endpts.com/anti-aging-biotech-newlimit-raises-130m-series-b-round/)
+- Endpoints News with Andrew Dunn [(2023)](https://endpts.com/newlimits-jacob-kimmel-on-future-of-anti-aging-research-longevity-trends-and-leaving-calico/), [(2025a)](https://endpts.com/anti-aging-biotech-newlimit-raises-130m-series-b-round/), [(2025b)](https://endpoints.news/eli-lilly-backs-anti-aging-biotech-newlimit-in-45m-raise/)
 - [Fierce Biotechnology](https://www.fiercebiotech.com/biotech/anti-aging-biotech-newlimit-raises-130m-push-liver-reprogramming-med-clinic) with Darren Incorvaia
 - [The Information](https://www.youtube.com/live/87vq_RXpZlI?si=uOKrXFIBdpJOwnaK&t=1267) with Akash Pasricha.
 - [Nature Biotechnology](https://www.nature.com/articles/d41587-022-00002-4) with Michael Eisenstein.
