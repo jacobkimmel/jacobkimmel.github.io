@@ -52,6 +52,7 @@ San Francisco, California
 
 1. Sengine L, Kummerlowe CS, Reynolds DL, Bernstein NJ, **Kimmel JC**. *In silico* design of epigenetic reprogramming payloads. *International Conference on Machine Learning (ICML)*, Generative Biology. 2025. url: [https://openreview.net/forum?id=kPQ6NKVAiT](https://openreview.net/forum?id=kPQ6NKVAiT).
 2. Roux A, Zhang C, Paw J, Zavala-Solorio J, Vijay T, Kolumam G, Kenyon C, **Kimmel JC**. 2022.
+Diverse partial reprogramming strategies restore youthful gene expression and transiently suppress cell identity.
 *Cell Systems*. [doi: https://doi.org/10.1016/j.cels.2022.05.002](https://doi.org/10.1016/j.cels.2022.05.002). [PDF]({{site.url}}/assets/files/2022_roux_cell_systems.pdf)
 3. **Kimmel JC**, Kelley DR. scNym: Semi-supervised adversarial neural networks for single cell classification. 2021. *Genome Research*. [doi: https://doi.org/10.1101/gr.268581.120](https://doi.org/10.1101/gr.268581.120). Awared Top Paper at ICML Computational Biology, 2020.
 4. **Kimmel JC**, Yi N, Roy M, Hendrickson DG, Kelley DR. Differentiation reveals the plasticity of age-related change in murine muscle progenitors. 2021. *Cell Reports*. [https://doi.org/10.1016/j.celrep.2021.109046](https://doi.org/10.1016/j.celrep.2021.109046).
