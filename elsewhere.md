@@ -13,7 +13,7 @@ permalink: /elsewhere/index.html
 - [Dwarkesh Podcast](https://www.dwarkesh.com/p/jacob-kimmel) with Dwarkesh Patel
     - artificial intelligence in the life sciences, human evolution, biology of aging, & the future of therapeutics
 - [Nichole Wischoff Podcast](https://www.youtube.com/watch?v=YR705hJxjts)
-    - [*NewLimit*], aging, & the economics of biotech startups
+    - [*NewLimit*](https://newlimit.com), aging, & the economics of biotech startups
 - [Translating Aging](https://podcasts.apple.com/us/podcast/epigenetic-reprogramming-therapies-to-extend-healthspan/id1569628505?i=1000611598850) with Chris Patel
     - [*NewLimit*](https://newlimit.com), reprogramming therapies, & genomics technology
 - [Technology Brothers Podcast Network](https://x.com/tbpn/status/1919865453025099789) with John Coogan and Jordi Hays 
