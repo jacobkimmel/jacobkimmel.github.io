@@ -12,6 +12,8 @@ permalink: /elsewhere/index.html
     - [*NewLimit*](https://newlimit.com), reprogramming therapies, & the biology of aging
 - [Dwarkesh Podcast](https://www.dwarkesh.com/p/jacob-kimmel) with Dwarkesh Patel
     - artificial intelligence in the life sciences, human evolution, biology of aging, & the future of therapeutics
+- [Free Radicals Podcast](https://freeradicalspodcast.substack.com/p/jacob-kimmel-pioneering-a-predictive) with Eric Dai & Daniel Shur
+    - epigenetic reprogramming, the biology of aging, things I do not understand, careers in the life sciences
 - [Nichole Wischoff Podcast](https://www.youtube.com/watch?v=YR705hJxjts)
     - [*NewLimit*](https://newlimit.com), aging, & the economics of biotech startups
 - [Translating Aging](https://podcasts.apple.com/us/podcast/epigenetic-reprogramming-therapies-to-extend-healthspan/id1569628505?i=1000611598850) with Chris Patel
