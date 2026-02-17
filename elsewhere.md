@@ -8,6 +8,8 @@ permalink: /elsewhere/index.html
 
 ## Podcasts
 
+- [Builders by Kleiner Perkins](youtube.com/watch?list=PLRiWZFltuYPFc8v7oGaM9x6db8yH5Xvew&time_continue=1&v=eJgcz89saBU&embeds_referring_euri=https%3A%2F%2Fx.com%2F&source_ve_path=Mjg2NjY#/) with partners Leigh Marie Braswell, Josh Coyne, & my friend Laura Deming
+    - epigenetic reprogramming, [*NewLimit*](https://newlimit.com), cryopreservation of tissues, [*Until Labs*](https://www.untillabs.com/#/), the Bay Area's frontier science epoch, chick-fil-a
 - [Core Memory](https://www.youtube.com/watch?v=QT4CuNS8bY4) with Ashlee Vance
     - [*NewLimit*](https://newlimit.com), reprogramming therapies, & the biology of aging
 - [Dwarkesh Podcast](https://www.dwarkesh.com/p/jacob-kimmel) with Dwarkesh Patel
