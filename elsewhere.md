@@ -22,8 +22,6 @@ permalink: /elsewhere/index.html
     - [*NewLimit*](https://newlimit.com), reprogramming therapies, & genomics technology
 - [Technology Brothers Podcast Network](https://x.com/tbpn/status/1919865453025099789) with John Coogan and Jordi Hays 
 - [Tech Today](https://www.youtube.com/watch?v=LbaGoWyvYS4) with Eric Tarczynski
-- [BiotechTV](https://www.biotechtv.com/post/newlimit-february-18-2026)
-    - [*NewLimit*](https://newlimit.com), epigenetic reprogramming, upcoming studies
 
 ## Interviews
 
@@ -32,6 +30,8 @@ permalink: /elsewhere/index.html
 - [The Information](https://www.youtube.com/live/87vq_RXpZlI?si=uOKrXFIBdpJOwnaK&t=1267) with Akash Pasricha.
 - [Nature Biotechnology](https://www.nature.com/articles/d41587-022-00002-4) with Michael Eisenstein.
 - [The Story Company](https://x.com/jasonjoyride/status/1959284497301876878) Lighthouse documentary.
+- [BiotechTV](https://www.biotechtv.com/post/newlimit-february-18-2026)
+    - [*NewLimit*](https://newlimit.com), epigenetic reprogramming, upcoming studies
 
 ## Writing
 
