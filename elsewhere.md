@@ -22,6 +22,8 @@ permalink: /elsewhere/index.html
     - [*NewLimit*](https://newlimit.com), reprogramming therapies, & genomics technology
 - [Technology Brothers Podcast Network](https://x.com/tbpn/status/1919865453025099789) with John Coogan and Jordi Hays 
 - [Tech Today](https://www.youtube.com/watch?v=LbaGoWyvYS4) with Eric Tarczynski
+- [BiotechTV](https://www.biotechtv.com/post/newlimit-february-18-2026)
+    - [*NewLimit*](https://newlimit.com), epigenetic reprogramming, upcoming studies
 
 ## Interviews
 
