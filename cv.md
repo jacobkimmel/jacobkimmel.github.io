@@ -13,10 +13,10 @@ San Francisco, California
 **Ph.D. — Dept. Biochemistry & Biophysics, UC San Francisco, 2015 - 2018**  
 *Funding*: NSF Fellowship, PhRMA Fellowship, NIH T32, UCSF Discovery   
 
-## Recent Experience
+## Experience
 
 **NewLimit, South San Francisco, CA, 2022 - Present**  
-*Co-founder & President*  
+*Co-founder & CEO*  
 
 * Building a therapeutics firm to develop epigenetic reprogramming medicines for aging
 
