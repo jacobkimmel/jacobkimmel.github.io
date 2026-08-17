@@ -33,6 +33,7 @@ permalink: /elsewhere/index.html
 
 - [Wall Street Journal](https://www.wsj.com/business/newlimit-startup-brian-armstrong-value-82ab9830) with Xavier Martinez.
 - [The New York Times](https://www.nytimes.com/2023/05/16/business/dealbook/altman-openai-senate.html) DealBook with Andrew Ross Sorkin.
+- [National Geographic](https://www.nationalgeographic.com/health/article/end-of-aging-cellular-reprogramming-longevity) with D.T. Max with photography by Robert Clark.
 - Endpoints News with Andrew Dunn [(2023)](https://endpts.com/newlimits-jacob-kimmel-on-future-of-anti-aging-research-longevity-trends-and-leaving-calico/), [(2025a)](https://endpts.com/anti-aging-biotech-newlimit-raises-130m-series-b-round/), [(2025b)](https://endpoints.news/eli-lilly-backs-anti-aging-biotech-newlimit-in-45m-raise/), [(2026a)](https://endpoints.news/anti-aging-biotech-newlimit-raises-435m-at-3b-valuation/)
 - Fierce Biotechnology [(2025)](https://www.fiercebiotech.com/biotech/anti-aging-biotech-newlimit-raises-130m-push-liver-reprogramming-med-clinic), [(2026)](https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells) with Darren Incorvaia
 - [Axios](https://www.axios.com/pro/health-tech-deals/2026/06/05/newlimit-3-billion-anti-aging) with Lucinda Shen.
